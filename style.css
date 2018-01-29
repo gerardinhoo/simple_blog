@@ -1,0 +1,29 @@
+/*css example
+*/
+body{
+	background-image: url(backgroung.jpg);
+	background-size: cover;
+}
+
+ul{
+	text-align: center;
+	/*border: 4px solid rgba(255, 20, 0, 0.5);*/
+	
+}
+
+
+
+
+li{
+	list-style: none;
+
+}
+
+h1{
+	color: #A43741
+}
+
+p{
+	font-family: 'Supermercado One', cursive;
+	font-size: 150%;
+}
