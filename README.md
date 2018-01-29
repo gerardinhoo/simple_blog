@@ -1,2 +1,3 @@
 # simple_blog
-A simple sport blog
+* This is simple sport blog
+* [View Project](https://gerardinhoo.github.io/simple_blog/)
